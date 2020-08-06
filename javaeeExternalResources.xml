@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://javafx.com/fxml/1" />
+    <ignored-resource url="http://javafx.com/javafx/10.0.2-internal" />
+    <ignored-resource url="http://javafx.com/javafx/11.0.1" />
+  </component>
+</application>

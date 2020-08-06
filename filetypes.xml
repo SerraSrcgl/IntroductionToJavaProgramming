@@ -1,0 +1,37 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Registered" type="DBN-SQL" />
+      <mapping pattern="Client" type="JavaFX" />
+      <mapping pattern="Books" type="PLAIN_TEXT" />
+      <mapping pattern="Handed_In" type="PLAIN_TEXT" />
+      <mapping pattern="New_Book" type="PLAIN_TEXT" />
+      <mapping pattern="Registered_Student_Info" type="PLAIN_TEXT" />
+      <mapping pattern="New_Member" type="PLAIN_TEXT" />
+      <mapping pattern="book_list for_rentin" type="PLAIN_TEXT" />
+      <mapping pattern="Database" type="PLAIN_TEXT" />
+      <mapping pattern="Candidates" type="PLAIN_TEXT" />
+      <mapping pattern="Book_Renting" type="PLAIN_TEXT" />
+      <mapping pattern="Book_List" type="PLAIN_TEXT" />
+      <mapping pattern="text" type="PLAIN_TEXT" />
+      <mapping pattern="For_Login" type="PLAIN_TEXT" />
+      <mapping pattern="RegisteredUser" type="PLAIN_TEXT" />
+      <mapping pattern="RegisteredStudents" type="PLAIN_TEXT" />
+      <mapping pattern="informationTable" type="PLAIN_TEXT" />
+      <mapping pattern="informatonFile" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="helper" type="PLAIN_TEXT" />
+      <mapping pattern="student" type="PLAIN_TEXT" />
+      <mapping pattern="LoginText" type="PLAIN_TEXT" />
+      <mapping pattern="Registered_Candidate" type="PLAIN_TEXT" />
+      <mapping pattern="RegisteredCandidate" type="PLAIN_TEXT" />
+      <mapping pattern="BookNames" type="PLAIN_TEXT" />
+      <mapping pattern="Availability" type="PLAIN_TEXT" />
+      <mapping pattern="Rented_Books" type="PLAIN_TEXT" />
+      <mapping pattern="ghjk" type="PLAIN_TEXT" />
+      <mapping pattern="book list" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="o" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
